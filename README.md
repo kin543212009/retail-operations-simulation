@@ -48,6 +48,10 @@ The model combines:
 - Average daily total revenue: 97,192.94
 - Average daily customers: 2,430
 
+ # Project Value
+This project demonstrates how simulation and statistical modelling can support data-driven decision-making in retail operations by balancing staffing efficiency, customer experience, and revenue outcomes.
+
+
 ## Files
 - `Q2.py`: main simulation script
 - `requirements.txt`: required Python libraries
@@ -57,5 +61,3 @@ The model combines:
 pip install -r requirements.txt
 python Q2.py
 
-# Project Value
-This project demonstrates how simulation and statistical modelling can support data-driven decision-making in retail operations by balancing staffing efficiency, customer experience, and revenue outcomes.
