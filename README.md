@@ -1,5 +1,4 @@
-# retail-operations-simulation
-Python simulation of queue dynamics, customer arrivals, service time, churn, and retail revenue.
+
 # Retail Operations Simulation
 
 A Python-based retail operations simulation project that models queue dynamics, customer arrivals, waiting time, customer churn, and daily revenue under changing demand conditions.
